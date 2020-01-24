@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72128254-c0e9-42ec-86c9-b68ea8fdfa72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movies/entities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movies/entities/actor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movies/entities/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/entities/genre.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/entities/actor.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/entities/actor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/entities/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/entities/movie.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1579526588874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="kuriu modelius, creatinu lenteles">
+      <created>1579848357254</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1579848357255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pradzia" />
-    <option name="LAST_COMMIT_MESSAGE" value="pradzia" />
+    <MESSAGE value="kuriu modelius, creatinu lenteles" />
+    <option name="LAST_COMMIT_MESSAGE" value="kuriu modelius, creatinu lenteles" />
   </component>
 </project>
