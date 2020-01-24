@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72128254-c0e9-42ec-86c9-b68ea8fdfa72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/movies/entities/genre.py" afterDir="false" />
+    <list default="true" id="72128254-c0e9-42ec-86c9-b68ea8fdfa72" name="Default Changelist" comment="pataisytos gramatines klaidos">
+      <change afterPath="$PROJECT_DIR$/movies/entities/box_office.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/entities/director.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/entities/studio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/modals/movies.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/entities/actor.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/entities/actor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/entities/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/entities/movie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/modals/actors.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/modals/actors.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +27,12 @@
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1WeyiIgEdTdZX17SQu4EmePjFrU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/movies/modals/actors.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/movies/modals/movies.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -44,7 +48,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="actors" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="movies" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="jolita20200120" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movies/modals/actors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movies/modals/movies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +93,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1579848357255</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="pataisytos gramatines klaidos">
+      <created>1579849208563</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1579849208563</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pradzia" />
     <MESSAGE value="kuriu modelius, creatinu lenteles" />
-    <option name="LAST_COMMIT_MESSAGE" value="kuriu modelius, creatinu lenteles" />
+    <MESSAGE value="pataisytos gramatines klaidos" />
+    <option name="LAST_COMMIT_MESSAGE" value="pataisytos gramatines klaidos" />
   </component>
 </project>
