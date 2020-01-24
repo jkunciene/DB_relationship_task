@@ -1,4 +1,5 @@
-from movies.database import create_table_database
+import sys
+from database.database import create_table_database
 
 
 def create_movies_table():
