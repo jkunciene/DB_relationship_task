@@ -1,5 +1,5 @@
 class BoxOffice:
 
-    def __init__(self, boxofficeId, name):
+    def __init__(self, boxofficeId, gross):
         self.boxofficeId = boxofficeId
-        self.name = name
+        self.gross = gross
