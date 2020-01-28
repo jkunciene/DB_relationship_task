@@ -1,4 +1,5 @@
 from database.database import create_table_database, query_database
+from entities.genre import Genre
 
 
 def create_genres_table():
